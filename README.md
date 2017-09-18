@@ -12,7 +12,7 @@ We are starting to codify the types of sonification techniques that are availabl
 **Data as presence** 
 - the combination of sound possibilities driven by interaction and navigation
 
-Data as harmonic movement
+**Data as harmonic movement**
 - Sequentially constructing music out of multi dimensional data
 
 **Data as gesture** 

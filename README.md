@@ -5,20 +5,28 @@ We are starting to codify the types of sonification techniques that are availabl
 
 Data as gestalt 
 - the direct sounding of the data. Individual data “packets” or icons of sound shaped by the scaled time series data
+
 Data as environment 
 - the factory - the forest - electroacoustic space
+
 Data as presence 
 - the combination of sound possibilities driven by interaction and navigation
+
 Data as harmonic movement
 - Sequentially constructing music out of multi dimensional data
+
 Data as gesture 
 - a sea of sequences that are experienced as a sound field
+
 Data as music 
 - most common realization (bar chart as melody)
+
 Extrinsic (Exformation)
 Data as extrinsic parameter change 
 - freq., pitch, tone, reverb, delay or any other auditory parameter
+
 Data as location 
 - representative sound material displaced by location and reverb
+
 Data as anomaly 
 - enigmatic sonic configurations that make the familiar, unfamiliar 

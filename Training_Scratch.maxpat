@@ -51,7 +51,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-2",
-					"items" : [ "data1.wav", ",", "data2.wav", ",", "data3.wav", ",", "data4.wav", ",", "data5.wav", ",", "data26wav", ",", "data7.wav", ",", "data8.wav" ],
+					"items" : [ "data1.wav", ",", "data2.wav", ",", "data3.wav", ",", "data4.wav", ",", "data5.wav", ",", "data6.wav", ",", "data7.wav", ",", "data8.wav", ",", "actino.wav", ",", "crypto.wav", ",", "deino.wav", ",", "droso.wav", ",", "fuso.wav", ",", "gallus.wav", ",", "macaca.wav", ",", "medicago.wav", ",", "medical.wav", ",", "tarus.wav" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,

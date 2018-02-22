@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 34.0, 79.0, 684.0, 909.0 ],
+		"rect" : [ 63.0, 173.0, 1174.0, 909.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -56,7 +56,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-53",
-					"items" : [ "data1.wav", ",", "data2.wav", ",", "data3.wav", ",", "data4.wav", ",", "data5.wav", ",", "data26wav", ",", "data7.wav", ",", "data8.wav" ],
+					"items" : [ "data1.wav", ",", "data2.wav", ",", "data3.wav", ",", "data4.wav", ",", "data5.wav", ",", "data6.wav", ",", "data7.wav", ",", "data8.wav", ",", "actino.wav", ",", "crypto.wav", ",", "deino.wav", ",", "droso.wav", ",", "fuso.wav", ",", "gallus.wav", ",", "macaca.wav", ",", "medicago.wav", ",", "medical.wav", ",", "tarus.wav" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -8395,7 +8395,7 @@
 						"followglobaltempo" : 0,
 						"formantcorrection" : 0,
 						"mode" : "basic",
-						"originallength" : [ 5276.159648, "ticks" ],
+						"originallength" : [ 3839.999744, "ticks" ],
 						"originaltempo" : 119.999992,
 						"pitchcorrection" : 0,
 						"quality" : "basic",

@@ -73,9 +73,9 @@ def on_button_clicked(b):
 
 	
     global index
-    tts = gTTS(text=(str(index)+'percent'), lang='en')
-    tts.save("num.mp3")
-    os.system("afplay num.mp3")
+    #tts = gTTS(text=(str(index)+'percent'), lang='en')
+    #tts.save("num.mp3")
+    #os.system("afplay num.mp3")
     if (index>50):
         pan = 1
     if (index<50):

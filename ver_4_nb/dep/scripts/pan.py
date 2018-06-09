@@ -55,6 +55,15 @@ f 1 0 1024 10 1
 </CsoundSynthesizer>
 '''
 
+try:
+    pt
+except NameError:
+    var_exists = False
+else:
+    pt.stop()
+    pt.join()
+    time.sleep(2)
+    
 cs.compileCsdText(csd)
 cs.start()
 pt = ctcsound.CsoundPerformanceThread(cs.csound())

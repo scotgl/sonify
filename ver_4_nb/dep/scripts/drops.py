@@ -12,6 +12,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import ctcsound
 
+
 index = 10
 cs = ctcsound.Csound()
 
@@ -61,7 +62,15 @@ f 1 0 1024 10 1
 
 </CsoundSynthesizer>
 '''
-
+try:
+    pt
+except NameError:
+    var_exists = False
+else:
+    pt.stop()
+    pt.join()
+    time.sleep(2)
+    
 cs.compileCsdText(csd_drop)
 cs.start()
 pt = ctcsound.CsoundPerformanceThread(cs.csound())

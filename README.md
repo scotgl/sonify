@@ -19,7 +19,7 @@ We are starting to codify the types of sonification techniques that are availabl
 - a sea of sequences that are experienced as a sound field
 
 **Data as music** 
-- most common realization (bar chart as melody)
+- most common realization (for example: bar chart as melody)
 
 **Data as extrinsic parameter change**
 Extrinsic *Exformation* - freq., pitch, tone, reverb, delay or any other auditory parameter

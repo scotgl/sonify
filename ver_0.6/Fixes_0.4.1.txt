@@ -1,0 +1,6 @@
+The following changes/updates/fixes were made from ver0.4
+
+1. Windows Compatibility for Text to Speech added
+2. Percentage Accuracy of User Response Displayed after Test 
+3. Changed the user input/feedback icons for User Test
+4. Removed Text to Speech before sonification during exploratory phase to avoid cogntive overhead.

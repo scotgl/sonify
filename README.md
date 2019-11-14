@@ -30,7 +30,12 @@ Extrinsic *Exformation* - freq., pitch, tone, reverb, delay or any other auditor
 **Data as anomaly** 
 - enigmatic sonic configurations that make the familiar, unfamiliar 
 
-Copyright 2019 Datastethoscope Project LLC
+Copyright ©️ 2018
+Developer:
+Sharath Chandra Ram ,PhD fellow at UT Dallas, School of Arts Technology and Emerging Communication. Twitter @AgentSpock
+
+Architect: 
+Scot Gresham Lancaster , Research Scientist, CNMAT UC Berkeley and UT Dallas.  @scotgl
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
